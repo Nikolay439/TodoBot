@@ -1,7 +1,7 @@
 import telebot
 from random import choice
 
-token = "7594219844:AAEmGjRc2jW9EgEQvg0NaKUC8W0oKe_Jnhs"
+token = "token telegramm bot"
 
 bot = telebot.TeleBot(token)
 
